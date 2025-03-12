@@ -1,1 +1,2 @@
 # Fernando-Boudourian-la-era-del-trading-inteligente
+El trading algorítmico revoluciona los mercados. Gracias a la inteligencia artificial y el big data, las operaciones se ejecutan en milisegundos, optimizando estrategias y reduciendo costos. Esta automatización mejora la eficiencia financiera, pero también plantea desafíos regulatorios. Adaptarse a esta transformación es clave para el futuro del sector.
